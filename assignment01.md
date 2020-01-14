@@ -42,4 +42,4 @@ At first glance, the website seems quite outdated to me. I think that the organi
 
 ### Heuristic Evaluation
 
-My heuristic evaluation of the two selected websites can be viewed **[here](Dig Hum 150 Assignment 1.pdf)**.
+My heuristic evaluation of the two selected websites can be viewed **[here](https://github.com/ashleyyph/DH150/blob/master/Dig%20Hum%20150%20Assignment%201.pdf)**.
