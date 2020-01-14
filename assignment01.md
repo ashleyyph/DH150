@@ -11,7 +11,7 @@ adoption benefits, and several other factors. Thus, I would like to improve the 
 to increase awareness about pet adoption and facilitate the adoption process, as well as encourage people to get involved and volunteer at shelters.
 
 ### Selected Websites
-***Website 1:** No Kill Los Angeles*
+***Website 1: No Kill Los Angeles***
 
 ![No Kill Los Angeles](/NKLA.png)
 
@@ -25,7 +25,7 @@ At first glance, the website seems visually appealing to me, if not a bit monoto
 
 &nbsp;
 
-***Website 2:** Los Angeles Animal Services*
+***Website 2: Los Angeles Animal Services***
 
 ![Los Angeles Animal Services](/LAAS.png)
 
