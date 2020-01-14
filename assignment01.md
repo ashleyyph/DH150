@@ -36,3 +36,6 @@ The City of Los Angeles Animal Services Department (LAAS) operates six award-win
 I decided to complete a heuristic evaluation of the LAAS website because I believe that the organization serves as the first point of contact for many individuals across Los Angeles County looking to adopt or surrender a pet. I feel that a redesign of the website could help to increase awareness about ethical means of surrending pets (as opposed to abandonment) as well as educate community members about pet adoption and fostering options, important veterinary and home care tips for pets, and more.
 
 At first glance, the website seems quite outdated to me. I think that the organization lacks a strong brand identity throughout the website (inconsistent fonts and style), and the website appears to lack a clear visual hierarchy; the most important aspects of the pages (calls to action for adoption/surrender and details about pet care) are vague and merely represented as a batch of links on the homepage, which may make it confusing for an interested community member to access the information they need.
+
+
+### Heuristic Evaluation
