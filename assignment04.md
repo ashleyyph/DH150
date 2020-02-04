@@ -48,10 +48,10 @@ their thought processes.
 Contextual inquiry guide (script) can be viewed [here](https://docs.google.com/document/d/1mXtMR_DwRU-tGLd9dp7j_uH6nVtb31ZGk3twHI37TUU/edit?usp=sharing).
 
 ### User Data
-Interview notes (typed) can be viewed here.
+Interview notes (typed) can be viewed [here](https://docs.google.com/document/d/1CVPSGDcqol3B8gEBJN2aBJREPdDLweCXHe1778IFofU/edit?usp=sharing).
 
-Interview recording can be viewed here.
+Interview recording can be viewed [here](https://drive.google.com/file/d/1AL_2pUFD79RvsE0aYmImKLAvdMFjVGrd/view?usp=sharing).
 
-Interview transcript can be viewed here.
+Interview transcript can be viewed [here](https://docs.google.com/document/d/12qhUkReYXj0dJuKOSW268ZyEY--BXPcVj-Z5ilhPqO8/edit?usp=sharing).
 
 ### Reflection
