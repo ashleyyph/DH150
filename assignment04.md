@@ -49,7 +49,9 @@ Contextual inquiry guide (script) can be viewed [here](https://docs.google.com/d
 
 ### User Data
 Interview notes (typed) can be viewed here.
+
 Interview recording can be viewed here.
+
 Interview transcript can be viewed here.
 
 ### Reflection
