@@ -1,4 +1,4 @@
-# Contextual Inquiry - LA Animal Services
+# Contextual Inquiry - Adoption Information
 Ashley Phuong | DH150: User Experience and Design
 
 ### Design Challenge
