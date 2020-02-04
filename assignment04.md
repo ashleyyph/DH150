@@ -45,7 +45,11 @@ the participant interacts with the website throughout the task and encouraging t
 their thought processes.
 
 ### Contextual Inquiry Guide
+Contextual inquiry guide (script) can be viewed [here](https://docs.google.com/document/d/1mXtMR_DwRU-tGLd9dp7j_uH6nVtb31ZGk3twHI37TUU/edit?usp=sharing).
 
 ### User Data
+Interview notes (typed) can be viewed here.
+Interview recording can be viewed here.
+Interview transcript can be viewed here.
 
 ### Reflection
