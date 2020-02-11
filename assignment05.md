@@ -54,8 +54,11 @@ Jamie is interested in fostering a pet. She has fostered pets before and has exp
 
 ## Scenario 3: Liam Uses Volunteer Sign Up Feature
 
-### Liam's User Journey
 When interested in getting involved with something, people often look at online resources and begin the involvement process by filling out a form online to express interest or sign-up. They want the sign-up process to be relatively quick and easy to complete. Currently, people consult the interest or sign-up page of the website of the organization of interest. The user is frustrated because the sign-up process feels very length and tedious, with no clear indication of expected turnaround. To solve this problem, Los Angeles Animal Services should condense the information collected in its sign-up form, break up the form into modular sections, and show users their progress on the form.
+
+Liam is interested in signing up to volunter at a Los Angeles Animal Services shelter on the weekends with his girlfriend. He has had previous community volunteering experience, but never with animals or at a shelter. Now, he is viewing the organization's website and is interested in filling out the sign-up form to volunteer. He clicks on the 'Volunteer with Us' feature from the home screen. He can see basic resources about volunteering on the shelter, and he can click on the link to the application, which he does. He now sees a very long form asking for several different types of information, from personal information (like name and address) to essay questions (why volunteer here) to personal identification (license ID).
+
+### Liam's User Journey
 
 ##### Challenges
 * Liam wants to sign up for volunteering at a local shelter, but the sign-up form is so lengthy that he feels he does not have enough time to set aside to complete it.
