@@ -34,5 +34,29 @@ Karen is interested in adopting a pet for her family. At the start of the proces
 * Karen will be able to keep track of the pets she is interested in adopting so that she can show her family and schedule visits accordingly.
 
 ## Scenario 2: Jamie Uses Foster Resources Feature
+When first joining a cause or organization, it can be helpful for people to view available resources to better understand their new role and responsibilities. They want these resources to be well-organized and accessible so that they can be easily digested. Currently, people consult the resources tab or page of the website of their organization to view resources. The user is frustrated because the information is not clearly organized, so the user does not know where to look for specific types of information. To solve this problem, Los Angeles Animal Services should invest in the reorganization and fleshing out of its existing resources pages to be more comprehensive. This scenario applies to user personas like Jamie, who are looking for information about helping out a community organization.
+
+### Jamie's User Journey
+Jamie is interested in fostering a pet. She has fostered pets before and has experience, but has never fostered a pet from Los Angeles Animal Services. Now, she has conducted some research and is interested in learning more information about fostering a pet from Los Angeles Animal Services. She clicks on the 'Foster Program' feature from the home screen. She can see what types of pets are available for fostering, what the typical expectations of a foster pet parent are, see handbooks for foster pet care, and access the foster application by clicking through several tabs and scrolling.
+
+##### Challenges
+* Jamie is curious about certain things (e.g., what specific pets are available for fostering) that are not available on the page.
+* Jamie struggles to find the information she is interested in because of the poor organization of the tabs in addition to the excessively long paragraphs of information.
+
+##### Solution
+* Additional information can be added to supplement the basic resources such that the page is more comprehensive; what type of information can be determined from surveying users.
+* The page can be reorganized to make it more modular, more easy to navigate, and more easy to read for users.
+
+##### Implementation
+* Jamie will be able to access all of the information she is interested in by viewing the resources page, with no additional need to conduct research outside of the website.
+* Jamie will be able to easily find the information she is looking for and will not feel overwhelmed when viewing the page.
 
 ## Scenario 3: Liam Uses Volunteer Sign Up Feature
+
+### Liam's User Journey
+
+##### Challenges
+
+##### Solution
+
+##### Implementation
