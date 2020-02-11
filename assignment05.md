@@ -36,8 +36,9 @@ Karen is interested in adopting a pet for her family. At the start of the proces
 ## Scenario 2: Jamie Uses Foster Resources Feature
 When first joining a cause or organization, it can be helpful for people to view available resources to better understand their new role and responsibilities. They want these resources to be well-organized and accessible so that they can be easily digested. Currently, people consult the resources tab or page of the website of their organization to view resources. The user is frustrated because the information is not clearly organized, so the user does not know where to look for specific types of information. To solve this problem, Los Angeles Animal Services should invest in the reorganization and fleshing out of its existing resources pages to be more comprehensive. This scenario applies to user personas like Jamie, who are looking for information about helping out a community organization.
 
-### Jamie's User Journey
 Jamie is interested in fostering a pet. She has fostered pets before and has experience, but has never fostered a pet from Los Angeles Animal Services. Now, she has conducted some research and is interested in learning more information about fostering a pet from Los Angeles Animal Services. She clicks on the 'Foster Program' feature from the home screen. She can see what types of pets are available for fostering, what the typical expectations of a foster pet parent are, see handbooks for foster pet care, and access the foster application by clicking through several tabs and scrolling.
+
+### Jamie's User Journey
 
 ##### Challenges
 * Jamie is curious about certain things (e.g., what specific pets are available for fostering) that are not available on the page.
@@ -54,9 +55,16 @@ Jamie is interested in fostering a pet. She has fostered pets before and has exp
 ## Scenario 3: Liam Uses Volunteer Sign Up Feature
 
 ### Liam's User Journey
+When interested in getting involved with something, people often look at online resources and begin the involvement process by filling out a form online to express interest or sign-up. They want the sign-up process to be relatively quick and easy to complete. Currently, people consult the interest or sign-up page of the website of the organization of interest. The user is frustrated because the sign-up process feels very length and tedious, with no clear indication of expected turnaround. To solve this problem, Los Angeles Animal Services should condense the information collected in its sign-up form, break up the form into modular sections, and show users their progress on the form.
 
 ##### Challenges
+* Liam wants to sign up for volunteering at a local shelter, but the sign-up form is so lengthy that he feels he does not have enough time to set aside to complete it.
+* Liam scans over the form and notices there are some sections he does not feel comfortable completing, including short essay responses on his past experiences and reasons for volunteering as well as personal identification like his license ID.
 
 ##### Solution
+* The sign-up form can be condensed, broken down into modular sections, and have a progress bar to show where users are at in the form.
+* The sign-up form can exclude some questions that are not necessarily relevant to the user's volunteering interest and/or ask those questions later, like at an orientation.
 
 ##### Implementation
+* Liam will be able to fill out the volunteering sign-up form in his free time without feeling overwhelmed.
+* Liam will be able to comfortably fill out the form, and will be made aware that these details may be asked for at a stage later in the process (not the initial interest stage).
