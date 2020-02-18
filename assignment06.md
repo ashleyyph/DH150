@@ -13,14 +13,17 @@ Based on these three user personas, I decided to hone in on the most impactful a
 The purpose of this low-fidelity prototyping is to create an initial concept of the website design, testing functionality through user interaction. By creating a rough sketch of the different screens of the website and the navigation flow between them, I can observe how users interact with the site features and identify the reasons behind their behavior. This enables me to better understand the thought process of the users and adjust my design to be more intuitive for them.
 
 ### Wireframes
+The wireframe shows the possible screens representing the input and output of the system.
 
 ![Wireframes](/Wireframes.png)
 
 ### Wireflow
+The wireflow shows the possible interaction sequences of the screens, emphasizing the three key features of: (1) improved and expanded filter feature, (2) bookmark and history feature, and (3) notification feature.
 
 ![Wireflow](/Wireflow.png)
 
 ### Testing
+The tester was able to complete three key tasks related to the introduced/improved features: (1) search for and filter through available pets, (2) bookmark a pet of interest and access bookmarked as well as recently viewed pets, and (3) view notifications related to pets of interest.
 
 ![Testing](/Testing.png)
 
