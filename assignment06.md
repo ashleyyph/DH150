@@ -12,10 +12,16 @@ Based on these three user personas, I decided to hone in on the most impactful a
 
 The purpose of this low-fidelity prototyping is to create an initial concept of the website design, testing functionality through user interaction. By creating a rough sketch of the different screens of the website and the navigation flow between them, I can observe how users interact with the site features and identify the reasons behind their behavior. This enables me to better understand the thought process of the users and adjust my design to be more intuitive for them.
 
-### Wireframe
+### Wireframes
+
+![Wireframes](/Wireframes.png)
 
 ### Wireflow
 
+![Wireflow](/Wireflow.png)
+
 ### Testing
+
+![Testing](/Testing.png)
 
 ### Reflection
