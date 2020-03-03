@@ -1,7 +1,7 @@
 # Los Angeles Animal Services | Ashley Phuong
 
 ### Introduction
-What is the project about? The motivation of the project and possible contribution.
+The community that I would like to contribute to with my design is the animal adoption and fostering community. For the past few months, I have been volunteering at a local animal shelter (No Kill Los Angeles). This has been a very impactful experience for me as I've worked closely with cats and dogs who have been mistreated or abandoned by their owners. The health and care issues these pets face are largely a result of unethical private breeding, lack of awareness about adoption benefits, and several other factors. Thus, I would like to improve the design of existing animal adoption websites to increase awareness about pet adoption and facilitate the adoption process, as well as encourage people to get involved and volunteer at shelters.
 
 ### Design Statement
 What is the issue and Why do you think it is important to resolve that issue by your project?
