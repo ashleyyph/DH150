@@ -7,6 +7,8 @@ The community that I would like to contribute to with my design is the animal ad
 What is the issue and Why do you think it is important to resolve that issue by your project?
 
 ### Competitor Analysis
+Animal care and services is a very important issue to me. Thus, I selected two animal services website that offer valuable tools and resources (e.g., adoption search, fostering search, volunteer registration) providing important information about how to visitshelters, how to attend adoption and fostering events, how to care for adopted and fostered pets, how to properly surrender pets and report emergencies, how to get involved with the organizations, and how to donate.
+
 Summary and link to the heuristics and usability testing of the existing product(s) - or the original website you evaluated (assignment 01 + 02)
 
 | NKLA | LAAS |
