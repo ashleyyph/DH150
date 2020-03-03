@@ -9,3 +9,6 @@ My project emphasizes ways that community members can contribute to local animal
 The purpose of this high-fidelity interactive prototyping is to create a functional representation of my design based on the initial low-fidelity prototype and its feedback. By mapping out a detailed version of the different screens of the website and using a prototyping tool to implement a navigation flow, I can test how users interact with the site features and identify the reasons behind their behavior. This allows me to observe the user behavior and make adjustments to my design before presenting a final product.
 
 The prototype demonstrates three key tasks: (1) search for and filter through available pets, (2) bookmark a pet of interest and access bookmarked as well as recently viewed pets, and (3) view notifications related to pets of interest.
+
+### Interactive Prototype
+<iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FtiAJdPLosptJ5utSgLDpmk%2FLos-Angeles-Animal-Services%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
