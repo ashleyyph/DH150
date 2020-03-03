@@ -10,5 +10,20 @@ The purpose of this high-fidelity interactive prototyping is to create a functio
 
 The prototype demonstrates three key tasks: (1) search for and filter through available pets, (2) bookmark a pet of interest and access bookmarked as well as recently viewed pets, and (3) view notifications related to pets of interest.
 
+### Graphic Design
+
+### Wireflow
+
 ### Interactive Prototype
-<iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FtiAJdPLosptJ5utSgLDpmk%2FLos-Angeles-Animal-Services%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+The interactive prototype can be viewed [here](https://www.figma.com/file/tiAJdPLosptJ5utSgLDpmk/Los-Angeles-Animal-Services?node-id=0%3A1).
+
+### Usability Testing
+
+### Feedback
+
+### Graphic Design
+
+### Wireflow
+
+### Interactive Prototype
+
