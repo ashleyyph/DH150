@@ -11,7 +11,7 @@ Summary and link to the heuristics and usability testing of the existing product
 
 | Website 1 | Website 2 |
 | :-------------:|:-------------:|
-| Website 1 | Website 2 |
+| ![NKLA](/NKLA.png) | ![LAAS](/LAAS.png) |
 
 ### User Research
 Summary and link to your assignment folder (assignment 04)
