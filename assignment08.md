@@ -14,7 +14,7 @@ The prototype demonstrates three key tasks: (1) search for and filter through av
 I used Figma to convert my screen designs from the low-fidelity prototype to a digital platform. I did not make the interactive prototype too detailed as my user personas and earlier research indicated that the major issue with the adoption search tool was in regards to functionality and basic navigation rather than key details. Thus, I focused on showing the opportunities for navigation (buttons, links, icons) instead of the contents of text or images. Some considerations I made in my decision to select specific colors, fonts, etc. included the current Los Angeles Animal Services logo (composed of white and blue), the current Los Angeles Animal Services website (grey and navy blue), and the readibility of different texts and graphical components.
 ![Wireframes](/Wireframes_Figma.png)
 
-In addition to considering the existing color scheme, I also wanted to make my design accessible. Thus, I considered the contrast between the foreground and background colors such that my design met the required WCAG 2 Contrast Ratio for AA compliance, the ideal level for most non-specialized websites.
+In addition to considering the existing color scheme, I also wanted to make my design accessible. Thus, I considered the contrast between the foreground and background colors such that my design met the required WCAG 2 Contrast Ratio for AA compliance, the ideal level for most non-specialized websites. Using the A11y Color Contrast Checker plugin on Figma, I confirmed that all of my screen designs met the minimum contrast ratio of 4.5:1 for normal text and 3:1 for large text.
 ![Accessibility](/Accessibility.png)
 
 ### Wireflow
