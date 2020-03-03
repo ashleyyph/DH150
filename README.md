@@ -13,7 +13,7 @@ Summary and link to the heuristics and usability testing of the existing product
 
 | NKLA | LAAS |
 | :-------------:|:-------------:|
-| ![NKLA](/NKLA.png) | ![LAAS](/LAAS.png) |
+| ![NKLA](https://github.com/ashleyyph/DH150/raw/master/NKLA.png) | ![LAAS](https://github.com/ashleyyph/DH150/raw/master/LAAS.png) |
 
 ### User Research
 Summary and link to your assignment folder (assignment 04)
