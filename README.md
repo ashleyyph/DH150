@@ -9,6 +9,10 @@ What is the issue and Why do you think it is important to resolve that issue by 
 ### Competitor Analysis
 Summary and link to the heuristics and usability testing of the existing product(s) - or the original website you evaluated (assignment 01 + 02)
 
+| Website 1 | Website 2 |
+| :-------------:|:-------------:|
+| Website 1 | Website 2 |
+
 ### User Research
 Summary and link to your assignment folder (assignment 04)
 
