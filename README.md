@@ -45,18 +45,39 @@ After I sketched out and tested the wireframes, wireflow, and graphic design ele
 
 Read more about my wireframes and wireflow [here](https://github.com/ashleyyph/DH150/blob/master/assignment08.md).
 
-Low-fidelity prototype (wireflow, assignment07)
+### Low-Fidelity Prototype
+I created a low-fidelity prototype in order to map out an initial concept of the website design, testing functionality through user interaction. By creating a rough sketch of the different screens of the website and the navigation flow between them, I was able to observe how users interact with the site features and identify the reasons behind their behavior. This allowed me to better understand the thought process of the users and adjust my design to be more intuitive for them.
 
+Read more about my low-fidelity prototype [here](https://github.com/ashleyyph/DH150/blob/master/assignment06.md).
 
-
-Summary and link to the sketches (may contains the multiple versions and evaluation history) (assignment 07 + part of 08)
+| ![Wireflow](https://github.com/ashleyyph/DH150/raw/master/Wireflow.png) | ![Comments](https://github.com/ashleyyph/DH150/raw/master/Testing.png) |
+| :-------------:|:-------------:|
 
 ### High-Fidelity Prototype 
-Summary statement and link to or an embedded prototype (assignment 08)
+I created a high-fidelity prototype in order to create a functional representation of my design based on my initial low-fidelity prototype and the feedback I received through testing and cognitive walkthrough. By mapping out a detailed version of the different screens of the website and using a prototyping tool to implement a navigation flow, I was able to test how users interact with the site features and identify the reasons behind their behavior. This allowed me to observe the user behavior and make adjustments to my design before presenting a final product.
+
+Read more about my high-fidelity prototype [here](https://github.com/ashleyyph/DH150/blob/master/assignment08.md).
+
+View my interactive prototype [here](https://www.figma.com/file/tiAJdPLosptJ5utSgLDpmk/Los-Angeles-Animal-Services?node-id=0%3A1). 
+
+| ![Wireframes](https://github.com/ashleyyph/DH150/raw/master/Wireframes_Figma2.png) | ![Wireflow](https://github.com/ashleyyph/DH150/raw/master/Wireflow_Figma2.png) |
+| :-------------:|:-------------:|
 
 ### Optional Evaluation and Revision History
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+After I created my high-fidelity prototype, I conducted a heuristic evaluation and usability test in order to identify the top three potential heuristic issues that I wanted to check with users whether they would feel challenging or unsatisfactory to complete, and based on those issues, I developed three tasks for the user to complete. 
+* Task #1: Search for and filter through available pets
+* Task #2: Bookmark a pet of interest and access bookmarked as well as recently viewed pets
+* Task #3: View notifications related to pets of interest
 
-### Pitch Video [update the video after recording your presentation]
+View my heuristic evaluation here.
+
+Read more about my usability test [here](https://github.com/ashleyyph/DH150/blob/master/assignment08.md#usability-test).
+
+After this additional user testing, I revised my design solution based on the feedback I received and conducted another accessibility audit to ensure that my design was still effective and comprehensive. 
+
+| ![Audit1](https://github.com/ashleyyph/DH150/raw/master/Accessibility.png) | ![Audit2](https://github.com/ashleyyph/DH150/raw/master/Accessibility2.png) |
+| :-------------:|:-------------:|
+
+### Pitch Video
 
 ### Conclusion: what you learned throughout the process?
