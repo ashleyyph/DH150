@@ -90,7 +90,7 @@ After this additional user testing, I revised my design solution based on the fe
 | ![Audit1](https://github.com/ashleyyph/DH150/raw/master/Accessibility.png) | ![Audit2](https://github.com/ashleyyph/DH150/raw/master/Accessibility2.png) |
 
 ### Pitch Video
-[![Thumbnail](https://github.com/ashleyyph/DH150/blob/master/Thumbnail.png?raw=true)](https://www.youtube.com/embed/Iy2BW4Uf5ok)
+[![Thumbnail]()](https://www.youtube.com/embed/Iy2BW4Uf5ok)
 
 ### Conclusion
 By working on this project, I was able to develop a holistic understanding of the user experience design process. Beginning with the heuristic evaluation, I began to realize the significance of having a user-oriented perspective in design decisions. Through the usability testing and contextual inquiry, I learned how to detach myself from the role as a user in everyday life and to observe the thought process behind how others interact with design features. Based on my notes and feedback from these user research processes, I developed and tested a design solution centered around the user and making a seamless experience. I now have a stronger understanding of the design cycle for user experience and how important the role of the user is in every step of the process. In addition, I learned technical methodologies and skills used in the user experience design process, such as conducting a usability test and using Figma to convert my low-fidelity wireframes into a high-fidelity prototype.
