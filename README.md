@@ -83,4 +83,7 @@ After this additional user testing, I revised my design solution based on the fe
 
 ### Pitch Video
 
-### Conclusion: what you learned throughout the process?
+### Conclusion
+By working on this project, I was able to develop a holistic understanding of the user experience design process. Beginning with the heuristic evaluation, I began to realize the significance of having a user-oriented perspective in design decisions. Through the usability testing and contextual inquiry, I learned how to detach myself from the role as a user in everyday life and to observe the thought process behind how others interact with design features. Based on my notes and feedback from these user research processes, I developed and tested a design solution centered around the user and making a seamless experience. I now have a stronger understanding of the design cycle for user experience and how important the role of the user is in every step of the process. In addition, I learned technical methodologies and skills used in the user experience design process, such as conducting a usability test and using Figma to convert my low-fidelity wireframes into a high-fidelity prototype.
+
+In the future, I would like to conduct additional user research, specifically cognitive walkthroughs and usability tests, for my high-fidelity prototype in order to receive further feedback and evaluation of my design solution. Based on the comments, I could then continue iterating my design and testing it again to make improvements. I would also like to develop my wireframes and wireflow to a greater degree of detail such that users truly have an immersive and realistic experience when testing my prototype.
