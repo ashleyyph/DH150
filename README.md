@@ -16,10 +16,22 @@ Summary and link to the heuristics and usability testing of the existing product
 | ![NKLA](https://github.com/ashleyyph/DH150/raw/master/NKLA.png) | ![LAAS](https://github.com/ashleyyph/DH150/raw/master/LAAS.png) |
 
 ### User Research
-Summary and link to your assignment folder (assignment 04)
+I conducted user research in order to develop a stronger understanding of the user’s goals and the context about the user's actions (what, why, and how of their behavior). In my contextual inquiry, I asked the user (an individual interested in animal services and pet adoption) to complete a task related to searching for adoption information through the Los Angeles Animal Services website. The existing methods for acquiring pet adoption information are: (1) to browse animal services websites online or (2) contact or visit local animal shelters directly. There are several animal services websites for the Los Angeles community, such as No Kill Los Angeles, Los Angeles Animal Services, spcaLA, and more. As a volunteer and advocate for animal services and pet adoption, I found it interesting to detach myself from the process and observe how another user interacted with the website during the user testing.
+
+Read more about my contextual inquiry and user research [here](https://github.com/ashleyyph/DH150/blob/master/assignment04.md#contextual-inquiry---adoption-information).
 
 ### UX Storytelling
-Summary and link to your assignment folder (assignment 05)
+As I developed my UX storytelling, I began to think about the types of people my system is intended to support. I created three user personas that represented the target demographic of my design solution. 
+
+| ![Karen](https://github.com/ashleyyph/DH150/raw/master/Karen.png) | ![Jamie](https://github.com/ashleyyph/DH150/raw/master/Jamie.png) | ![Liam](https://github.com/ashleyyph/DH150/raw/master/Liam.png) |
+| :-------------:|:-------------:|:-------------:|
+
+Based on my user personas and other considerations I thought about since the start of the project, I created three scenarios that demonstrated the envisioned functionality of the design features I planned to introduce. 
+* Scenario #1: Use adoptable pet search feature to find adoption information
+* Scenario #2: Use foster resources feature to learn how to foster a pet
+* Scenario #3: Use volunteer sign-up feature to begin the involvement process
+
+Read more about the user journeys of these personas and my UX storytelling [here](https://github.com/ashleyyph/DH150/blob/master/assignment05.md#scenarios).
 
 ### Wireframe and Graphic Design Element Variation
 Low-fidelity prototype (wireflow, assignment07)
