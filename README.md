@@ -1,10 +1,10 @@
 # Los Angeles Animal Services | Ashley Phuong
 
 ### Introduction
-The community that I would like to contribute to with my design is the animal adoption and fostering community. For the past few months, I have been volunteering at a local animal shelter (No Kill Los Angeles). This has been a very impactful experience for me as I've worked closely with cats and dogs who have been mistreated or abandoned by their owners. The health and care issues these pets face are largely a result of unethical private breeding, lack of awareness about adoption benefits, and several other factors. Thus, I would like to improve the design of existing animal adoption websites to increase awareness about pet adoption and facilitate the adoption process, as well as encourage people to get involved and volunteer at shelters.
+Los Angeles Animal Services operates six award-winning animal shelters and has both staff and volunteers serving the local community, caring for 60,000 animals and responding to 20,000 emergency calls each year. The Los Angeles Animal Services website provides key information on important animal services opportunities such as pet adoption, foster resources, and volunteering. However, much of this information is not easily accessible due to the unintuitive and challenging design of the current website. For my project, I chose to focus on the adoption search tool of the website and improve its ease of use. My project introduces several redesigned and new features that build upon the existing tool, including "Filter", "Bookmark", "Notification", and "History" options to help Los Angeles Animal Services improve its adoption services.
 
 ### Design Statement
-What is the issue and Why do you think it is important to resolve that issue by your project?
+Los Angeles Animal Services serves as the first point of contact for many individuals across Los Angeles County looking for information regarding pets, including adoption, fostering, volunteering, surrendering, etc. With the rise of technology and internet use, I feel that the website should be redesigned to make its contents more accessible and easy to navigate in order to encourage users to continue their research on the site (as opposed to being discouraged by unintuitive design) and benefit the animal services community as a whole across Los Angeles county. My project resolves this issue by adding new and redesigned features that make the website's adoption search tool significantly easier to use. Not only would users be able to search through the catalog of pets available for adoption, they would be able to filter through pets based on their preferences, turn on bookmarks and notifications for their pets of interest, and quickly access previously viewed pets to share with friends and family.
 
 ### Competitor Analysis
 Animal care and services is a very important issue to me. Thus, I selected two animal services website that offer valuable tools and resources (e.g., adoption search, fostering search, volunteer registration) providing important information about how to visitshelters, how to attend adoption and fostering events, how to care for adopted and fostered pets, how to properly surrender pets and report emergencies, how to get involved with the organizations, and how to donate.
@@ -69,13 +69,16 @@ After I created my high-fidelity prototype, I conducted a heuristic evaluation a
 * Task #2: Bookmark a pet of interest and access bookmarked as well as recently viewed pets
 * Task #3: View notifications related to pets of interest
 
-View my heuristic evaluation here.
+| ![Comment](https://github.com/ashleyyph/DH150/raw/master/Accessibility.png) | ![Comments](https://github.com/ashleyyph/DH150/raw/master/Accessibility2.png) |
+| :-------------:|:-------------:|
+
+View my heuristic evaluation [here](https://github.com/ashleyyph/DH150/blob/master/heuristicevaluation.md).
 
 Read more about my usability test [here](https://github.com/ashleyyph/DH150/blob/master/assignment08.md#usability-test).
 
 After this additional user testing, I revised my design solution based on the feedback I received and conducted another accessibility audit to ensure that my design was still effective and comprehensive. 
 
-| ![Audit1](https://github.com/ashleyyph/DH150/raw/master/Accessibility.png) | ![Audit2](https://github.com/ashleyyph/DH150/raw/master/Accessibility2.png) |
+| ![Audit1](https://github.com/ashleyyph/DH150/blob/master/Comment.png?raw=true) | ![Audit2](https://github.com/ashleyyph/DH150/blob/master/Comments.png?raw=true) |
 | :-------------:|:-------------:|
 
 ### Pitch Video
