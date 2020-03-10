@@ -9,7 +9,7 @@ What is the issue and Why do you think it is important to resolve that issue by 
 ### Competitor Analysis
 Animal care and services is a very important issue to me. Thus, I selected two animal services website that offer valuable tools and resources (e.g., adoption search, fostering search, volunteer registration) providing important information about how to visitshelters, how to attend adoption and fostering events, how to care for adopted and fostered pets, how to properly surrender pets and report emergencies, how to get involved with the organizations, and how to donate.
 
-Summary and link to the heuristics and usability testing of the existing product(s) - or the original website you evaluated (assignment 01 + 02)
+Read more about my competitor analysis and heuristic evaluation [here](https://github.com/ashleyyph/DH150/blob/master/assignment01.md). Read more about my usability testing [here](https://github.com/ashleyyph/DH150/blob/master/assignment02.md).
 
 | NKLA | LAAS |
 | :-------------:|:-------------:|
@@ -34,7 +34,21 @@ Based on my user personas and other considerations I thought about since the sta
 Read more about the user journeys of these personas and my UX storytelling [here](https://github.com/ashleyyph/DH150/blob/master/assignment05.md#scenarios).
 
 ### Wireframe and Graphic Design Element Variation
+Through my user research and testing, I discovered that it is very difficult and unintuitive for users to interact with important features of the Los Angeles Animal Services website, which was a major issue that I hoped to fix through my design solution. Based on the three user personas I created, I decided to focus on the most impactful aspect of the website: the adoption search tool. Read more about my initial wireframes and wireflow in my low-fidelity prototype [here](https://github.com/ashleyyph/DH150/blob/master/assignment06.md).
+
+I also evaluated the accessibility of the Los Angeles Animal Services website, proposed three color variations of background and text, and checked the color contrast of my variations to meet WCAG2.1 AA compliance. Learn more about my accessibility audit and graphic design element variation [here](https://github.com/ashleyyph/DH150/tree/master/assignment07). 
+
+After I sketched out and tested the wireframes, wireflow, and graphic design element variations for my design solution features, I transferred my work to a digital platform. Below are some of the screens I designed based on my low-fidelity prototype and feedback from user testing. 
+
+| ![Results](https://github.com/ashleyyph/DH150/blob/master/LAAS-Results.png?raw=true) | ![Select](https://github.com/ashleyyph/DH150/blob/master/LAAS-Select.png?raw=true) |
+| :-------------:|:-------------:|
+
+Read more about my wireframes and wireflow [here](https://github.com/ashleyyph/DH150/blob/master/assignment08.md).
+
 Low-fidelity prototype (wireflow, assignment07)
+
+
+
 Summary and link to the sketches (may contains the multiple versions and evaluation history) (assignment 07 + part of 08)
 
 ### High-Fidelity Prototype 
