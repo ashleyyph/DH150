@@ -80,6 +80,8 @@ After I created my high-fidelity prototype, I conducted a heuristic evaluation a
 View my heuristic evaluation [here](https://github.com/ashleyyph/DH150/blob/master/heuristicevaluation.md).
 
 Read more about my usability test [here](https://github.com/ashleyyph/DH150/blob/master/assignment08.md#usability-test).
+* The survey used in the usability test can be accessed [here](https://docs.google.com/forms/d/1s5-H8u25tUqTm2GS2agqrBOfJV9gogB-1pthomPvOIQ/edit?usp=sharing).
+* The video recording of the usability test can be accessed [here](https://drive.google.com/file/d/1TAthCbUP_lAT7QZ_64MKB35ZiR_lKvQ6/view?usp=sharing).
 
 After this additional user testing, I revised my design solution based on the feedback I received and conducted another accessibility audit to ensure that my design was still effective and comprehensive. 
 
