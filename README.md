@@ -23,8 +23,9 @@ Read more about my contextual inquiry and user research [here](https://github.co
 ### UX Storytelling
 As I developed my UX storytelling, I began to think about the types of people my system is intended to support. I created three user personas that represented the target demographic of my design solution. 
 
-| ![Karen](https://github.com/ashleyyph/DH150/raw/master/Karen.png) | ![Jamie](https://github.com/ashleyyph/DH150/raw/master/Jamie.png) | ![Liam](https://github.com/ashleyyph/DH150/raw/master/Liam.png) |
+| Karen | Jamie | Liam |
 | :-------------:|:-------------:|:-------------:|
+| ![Karen](https://github.com/ashleyyph/DH150/raw/master/Karen.png) | ![Jamie](https://github.com/ashleyyph/DH150/raw/master/Jamie.png) | ![Liam](https://github.com/ashleyyph/DH150/raw/master/Liam.png) |
 
 Based on my user personas and other considerations I thought about since the start of the project, I created three scenarios that demonstrated the envisioned functionality of the design features I planned to introduce. 
 * Scenario #1: Use adoptable pet search feature to find adoption information
@@ -40,8 +41,9 @@ I also evaluated the accessibility of the Los Angeles Animal Services website, p
 
 After I sketched out and tested the wireframes, wireflow, and graphic design element variations for my design solution features, I transferred my work to a digital platform. Below are some of the screens I designed based on my low-fidelity prototype and feedback from user testing. 
 
-| ![Results](https://github.com/ashleyyph/DH150/blob/master/LAAS-Results.png?raw=true) | ![Select](https://github.com/ashleyyph/DH150/blob/master/LAAS-Select.png?raw=true) |
+| Search Results | Selected Result |
 | :-------------:|:-------------:|
+| ![Results](https://github.com/ashleyyph/DH150/blob/master/LAAS-Results.png?raw=true) | ![Select](https://github.com/ashleyyph/DH150/blob/master/LAAS-Select.png?raw=true) |
 
 Read more about my wireframes and wireflow [here](https://github.com/ashleyyph/DH150/blob/master/assignment08.md).
 
@@ -50,8 +52,9 @@ I created a low-fidelity prototype in order to map out an initial concept of the
 
 Read more about my low-fidelity prototype [here](https://github.com/ashleyyph/DH150/blob/master/assignment06.md).
 
-| ![Wireflow](https://github.com/ashleyyph/DH150/raw/master/Wireflow.png) | ![Comments](https://github.com/ashleyyph/DH150/raw/master/Testing.png) |
+| Navigation | Feedback |
 | :-------------:|:-------------:|
+| ![Wireflow](https://github.com/ashleyyph/DH150/raw/master/Wireflow.png) | ![Comments](https://github.com/ashleyyph/DH150/raw/master/Testing.png) |
 
 ### High-Fidelity Prototype 
 I created a high-fidelity prototype in order to create a functional representation of my design based on my initial low-fidelity prototype and the feedback I received through testing and cognitive walkthrough. By mapping out a detailed version of the different screens of the website and using a prototyping tool to implement a navigation flow, I was able to test how users interact with the site features and identify the reasons behind their behavior. This allowed me to observe the user behavior and make adjustments to my design before presenting a final product.
@@ -60,8 +63,9 @@ Read more about my high-fidelity prototype [here](https://github.com/ashleyyph/D
 
 View my interactive prototype [here](https://www.figma.com/file/tiAJdPLosptJ5utSgLDpmk/Los-Angeles-Animal-Services?node-id=0%3A1). 
 
-| ![Wireframes](https://github.com/ashleyyph/DH150/raw/master/Wireframes_Figma2.png) | ![Wireflow](https://github.com/ashleyyph/DH150/raw/master/Wireflow_Figma2.png) |
+| Wireframes | Wireflow |
 | :-------------:|:-------------:|
+| ![Wireframes](https://github.com/ashleyyph/DH150/raw/master/Wireframes_Figma2.png) | ![Wireflow](https://github.com/ashleyyph/DH150/raw/master/Wireflow_Figma2.png) |
 
 ### Optional Evaluation and Revision History
 After I created my high-fidelity prototype, I conducted a heuristic evaluation and usability test in order to identify the top three potential heuristic issues that I wanted to check with users whether they would feel challenging or unsatisfactory to complete, and based on those issues, I developed three tasks for the user to complete. 
@@ -69,8 +73,9 @@ After I created my high-fidelity prototype, I conducted a heuristic evaluation a
 * Task #2: Bookmark a pet of interest and access bookmarked as well as recently viewed pets
 * Task #3: View notifications related to pets of interest
 
-| ![Comment](https://github.com/ashleyyph/DH150/raw/master/Accessibility.png) | ![Comments](https://github.com/ashleyyph/DH150/raw/master/Accessibility2.png) |
+| Example | Comments |
 | :-------------:|:-------------:|
+| ![Example](https://github.com/ashleyyph/DH150/blob/master/Comment.png?raw=true) | ![Comments](https://github.com/ashleyyph/DH150/blob/master/Comments.png?raw=true) |
 
 View my heuristic evaluation [here](https://github.com/ashleyyph/DH150/blob/master/heuristicevaluation.md).
 
@@ -78,8 +83,9 @@ Read more about my usability test [here](https://github.com/ashleyyph/DH150/blob
 
 After this additional user testing, I revised my design solution based on the feedback I received and conducted another accessibility audit to ensure that my design was still effective and comprehensive. 
 
-| ![Audit1](https://github.com/ashleyyph/DH150/blob/master/Comment.png?raw=true) | ![Audit2](https://github.com/ashleyyph/DH150/blob/master/Comments.png?raw=true) |
+| Pre-Testing Audit | Post-Testing Audit |
 | :-------------:|:-------------:|
+| ![Audit1](https://github.com/ashleyyph/DH150/raw/master/Accessibility.png) | ![Audit2](https://github.com/ashleyyph/DH150/raw/master/Accessibility2.png) |
 
 ### Pitch Video
 
